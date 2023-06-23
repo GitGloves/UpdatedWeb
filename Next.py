@@ -1,1 +1,1 @@
-print('Richard the best Castsaneda');
+print('Richard Castsaneda');
