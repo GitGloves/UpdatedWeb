@@ -1,1 +1,1 @@
-print('Richard S Castsaneda');
+print('Richard Castsaneda');
